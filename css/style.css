@@ -229,7 +229,11 @@ span.slider_number_text{
     text-transform: uppercase;
 }
 
-.mogo__about_body{
+.mogo__main {
+    width: 1510px;
+    margin: 0;
+}
+.mogo__main_about{
     width: 1186px;
     height: 699px;
     background: #ffffff;
@@ -238,4 +242,98 @@ span.slider_number_text{
     padding-top: 42px;
 }
 
+.mogo__main_about_what {
+    display: flex;
+    width: 1170px;
+    height: 80px;
+    flex-direction: column;
+    justify-content: center;
+    color: #2D3033;
+    text-align: center;
+    font-family: Kaushan Script, serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
 
+.mogo__main_about_story {
+    display: flex;
+    width: 1170px;
+    height: 81px;
+    flex-direction: column;
+    justify-content: center;
+    color: #2D3033;
+    text-align: center;
+    font-family: Raleway, serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.mogo__main_about_divider{
+    width: 170px;
+    height: 4px;
+    background: #F38281;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 24px;
+}
+
+.mogo__main_about_text{
+    display: flex;
+    width: 1170px;
+    height: 118px;
+    flex-direction: column;
+    justify-content: center;
+    color: #000;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.mogo__banner_about_super{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mogo__main_about_futures{
+    display: flex;
+    width: 1510px;
+    height: 250px;
+    background: #95E1D3;
+    justify-content: center;
+}
+
+.futures{
+    display: flex;
+    width: 234px;
+    height: 250px;
+    margin-top: 24px;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border-left: 1px white solid;
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+span.future_num{
+    color: #FFF;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
