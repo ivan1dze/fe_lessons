@@ -290,7 +290,7 @@ span.slider_number_text{
     justify-content: center;
     color: #000;
     text-align: center;
-    font-family: Raleway;
+    font-family: Raleway, serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -320,7 +320,7 @@ span.slider_number_text{
     text-align: center;
     border-left: 1px white solid;
     color: #FFF;
-    font-family: Raleway;
+    font-family: Raleway, serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
@@ -330,7 +330,7 @@ span.slider_number_text{
 span.future_num{
     color: #FFF;
     text-align: center;
-    font-family: Raleway;
+    font-family: Raleway, serif;
     font-size: 64px;
     font-style: normal;
     font-weight: 700;
